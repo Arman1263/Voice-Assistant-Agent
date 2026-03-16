@@ -37,6 +37,9 @@ Phone Call
 
 ---
 
+## 🖥 Running the Agent
+![See](assets/snapshot.jpeg)
+
 ## 📁 Project Structure
 
 ```
